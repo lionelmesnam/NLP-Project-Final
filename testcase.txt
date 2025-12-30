@@ -1,0 +1,53 @@
+Chúng ta thường nói đến Rau sạch, Rau an toàn để phân biệt với các rau bình thường ngoài chợ
+# Enjoyment (Dùng slang "nhức nách", "dính")
+    "U là trời, cái bánh ngon nhức nách, ăn một miếng là dính luôn.",
+
+    # Anger (Sự bất lực, bực bội dồn nén)
+    "Cái thái độ lồi lõm đó là sao, bộ muốn chọc người ta điên lên mới vừa lòng hả?",
+
+    # Sadness (Cảm xúc nội tâm, hụt hẫng)
+    "Tự nhiên thấy hụt hẫng, cảm giác như cả thế giới đang quay lưng lại với mình.",
+
+    # Fear (Mô tả phản ứng cơ thể)
+    "Đang ngủ mà nghe tiếng động lạ dưới bếp, tim đập thình thịch không dám thở mạnh.",
+
+    # Surprise (Ngạc nhiên pha lẫn nghi ngờ - "ảo thật đấy")
+    "Gì ghê vậy, mới đó mà đã sold out hết sạch vé rồi á, ảo thật đấy!",
+
+    # Disgust (Sự chán ghét về mặt thị giác/vị giác)
+    "Nhìn cái bát canh toàn mỡ lềnh bềnh là thấy ớn tới tận cổ rồi."
+
+    1. Vui vẻ / Hài lòng (Enjoyment)
+"Cuối cùng cũng bảo vệ xong đồ án rồi, nhẹ cả người, tối nay phải đi xõa một bữa mới được!"
+
+"Hàng giao nhanh thần tốc, đóng gói siêu kỹ, chủ shop lại còn tặng thêm quà nữa chứ, 10 điểm cho chất lượng nha."
+
+2. Buồn bã (Sadness)
+"Mới chia tay người yêu xong, cảm giác trống rỗng quá, chẳng muốn làm gì cả, chỉ muốn nằm lì trong phòng."
+
+"Nghe tin ngoại ốm nặng mà lòng như lửa đốt, tủi thân vì đi làm xa không về thăm ngay được."
+
+3. Giận dữ (Anger)
+"Làm ăn kiểu gì mà kì cục vậy, nhắn tin từ sáng tới giờ không thèm trả lời, coi thường khách hàng vừa thôi chứ!"
+
+"Đang vội mà gặp cái xe buýt đi ẩu tạt đầu suýt ngã, bực mình thật sự luôn á."
+
+4. Sợ hãi (Fear)
+"Trời ơi đi đường vắng lúc 12h đêm mà cứ có cảm giác ai đi sau lưng, sợ toát cả mồ hôi hột."
+
+"Nghe tiếng còi báo cháy rú lên mà chân tay bủn rủn, không biết chạy đường nào luôn."
+
+5. Ghê tởm (Disgust)
+"Nhìn bát phở bưng ra có con ruồi chết đuối bên trong mà muốn nôn hết cả bữa sáng ra ngoài, tởm lợm quá."
+
+"Sao lại có người sống bẩn thỉu luộm thuộm được như thế nhỉ, nhìn cái phòng mà phát ớn."
+
+6. Ngạc nhiên (Surprise)
+"Ủa, không thể tin được là cậu ấy lại đạt giải nhất luôn, bình thường trầm tính thế kia mà!"
+
+"Trời đất ơi, sao tự nhiên hôm nay lại mua hoa tặng em thế, mặt trời mọc đằng Tây hả?"
+
+7. Trung tính / Khác (Neutral / Other)
+"Cho mình hỏi shop còn mẫu áo này size L màu xanh dương không ạ?"
+
+"Theo thông báo của nhà trường, sinh viên sẽ bắt đầu nghỉ tết từ ngày 20 tháng Chạp."
