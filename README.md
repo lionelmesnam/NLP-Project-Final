@@ -1,5 +1,5 @@
 # Vietnamese Sentiment Analysis (Phân tích 7 cảm xúc trong văn bản tiếng Việt)
-
+Dataset source from: https://nlp.uit.edu.vn/datasets
 ## 📖 Giới thiệu (Overview)
 Dự án này tập trung vào việc nghiên cứu và so sánh hiệu năng của các mô hình ngôn ngữ lớn (Transformer-based models) để giải quyết bài toán **Phân tích cảm xúc văn bản tiếng Việt** (Sentiment Analysis).
 
